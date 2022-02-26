@@ -1,0 +1,6 @@
+- **Nome a decidir.**
+- É uma toupeira (em inglês, mole);
+- Olhos sempre fechados;
+- Capacete de segurança amarelo;
+- Nariz estrelado;
+- Que roupas usar? Talvez mostrar no máximo a cabeça fora da terra;

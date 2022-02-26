@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "3f034936e5fdacbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7716b0909fed78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Demoletion Co..md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20a4503a09c12883",
+    "type": "split",
+    "children": [
+      {
+        "id": "458995a3ced53360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae6d77a0f6de200a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5776ce8e3ef80948",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cae20ec09eb6148a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d592fd83ddfadd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2cbc57971f71857",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Demoletion Co..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ba7716b0909fed78",
+  "lastOpenFiles": [
+    "Demoletion Co..md",
+    "Protagonista.md",
+    "GDD turbo.md",
+    "Construções.md"
+  ]
+}
